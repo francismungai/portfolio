@@ -43,8 +43,8 @@ export default function Home() {
                   Full-stack Software Engineer
                 </h1>
                 <p className="text-xl text-muted-foreground">
-                  Creating solutions that make a difference. Co-founder of
-                  MedVic & Tu-Fund
+                  Creating solutions that make a difference. Leading development
+                  at MedVic & Tu-Fund
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center md:justify-start">
                   <Button asChild className="w-full sm:w-auto">
@@ -150,15 +150,17 @@ export default function Home() {
                   <CardHeader>
                     <div className="flex justify-between items-start">
                       <div>
-                        <CardTitle>Co-Founder & CTO</CardTitle>
-                        <CardDescription>MedVic • Present</CardDescription>
+                        <CardTitle>Full-stack Developer</CardTitle>
+                        <CardDescription>
+                          MedVic {/*• Present*/}
+                        </CardDescription>
                       </div>
                       <Badge>Current</Badge>
                     </div>
                   </CardHeader>
                   <CardContent className="space-y-2">
                     <p>
-                      Co-Founder & CTO of MedVic, a mobile platform enabling
+                      Leading development of MedVic, a mobile platform enabling
                       users to find hospital shifts and volunteer opportunities
                       with various organizations.
                     </p>
@@ -192,17 +194,17 @@ export default function Home() {
                   <CardHeader>
                     <div className="flex justify-between items-start">
                       <div>
-                        <CardTitle>Co-Founder & CTO</CardTitle>
+                        <CardTitle>Full-stack Developer</CardTitle>
                         <CardDescription>
-                          Tu-Fund • Aug 2023 - Present
+                          Tu-Fund {/*  • Aug 2023 - Present */}
                         </CardDescription>
                       </div>
                     </div>
                   </CardHeader>
                   <CardContent className="space-y-2">
                     <p>
-                      Co-Founder & CTO of Tu-Fund, a fundraising platform based
-                      in Cleveland, Ohio.
+                      Leading development of Tu-Fund, a fundraising platform
+                      based in Cleveland, Ohio.
                     </p>
                     <ul className="list-disc pl-5 space-y-1">
                       <li>
